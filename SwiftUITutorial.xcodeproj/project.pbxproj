@@ -14,6 +14,7 @@
 		C341DAF82B98019100B6E029 /* SwiftUITutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C341DAF72B98019100B6E029 /* SwiftUITutorialTests.swift */; };
 		C341DB022B98019100B6E029 /* SwiftUITutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C341DB012B98019100B6E029 /* SwiftUITutorialUITests.swift */; };
 		C341DB042B98019100B6E029 /* SwiftUITutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C341DB032B98019100B6E029 /* SwiftUITutorialUITestsLaunchTests.swift */; };
+		C341DB112B9811F600B6E029 /* NavigationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C341DB102B9811F600B6E029 /* NavigationExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C341DAFD2B98019100B6E029 /* SwiftUITutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUITutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C341DB012B98019100B6E029 /* SwiftUITutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialUITests.swift; sourceTree = "<group>"; };
 		C341DB032B98019100B6E029 /* SwiftUITutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C341DB102B9811F600B6E029 /* NavigationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				C341DAE62B98019000B6E029 /* SwiftUITutorialApp.swift */,
 				C341DAE82B98019000B6E029 /* ContentView.swift */,
+				C341DB102B9811F600B6E029 /* NavigationExample.swift */,
 				C341DAEA2B98019000B6E029 /* Assets.xcassets */,
 				C341DAEC2B98019000B6E029 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C341DAE92B98019000B6E029 /* ContentView.swift in Sources */,
+				C341DB112B9811F600B6E029 /* NavigationExample.swift in Sources */,
 				C341DAE72B98019000B6E029 /* SwiftUITutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
