@@ -17,6 +17,7 @@
 		C341DB112B9811F600B6E029 /* NavigationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C341DB102B9811F600B6E029 /* NavigationExample.swift */; };
 		C341DB152B98446800B6E029 /* GridViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = C341DB142B98446800B6E029 /* GridViewExample.swift */; };
 		C3951C092B993E4C00DA281C /* SwitchingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3951C082B993E4C00DA281C /* SwitchingView.swift */; };
+		C3951C0B2B99540700DA281C /* PhotoLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3951C0A2B99540700DA281C /* PhotoLibrary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		C341DB102B9811F600B6E029 /* NavigationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExample.swift; sourceTree = "<group>"; };
 		C341DB142B98446800B6E029 /* GridViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewExample.swift; sourceTree = "<group>"; };
 		C3951C082B993E4C00DA281C /* SwitchingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchingView.swift; sourceTree = "<group>"; };
+		C3951C0A2B99540700DA281C /* PhotoLibrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoLibrary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				C341DAE62B98019000B6E029 /* SwiftUITutorialApp.swift */,
 				C341DAE82B98019000B6E029 /* ContentView.swift */,
 				C3951C082B993E4C00DA281C /* SwitchingView.swift */,
+				C3951C0A2B99540700DA281C /* PhotoLibrary.swift */,
 				C341DB142B98446800B6E029 /* GridViewExample.swift */,
 				C341DB102B9811F600B6E029 /* NavigationExample.swift */,
 				C341DAEA2B98019000B6E029 /* Assets.xcassets */,
@@ -270,6 +273,7 @@
 				C3951C092B993E4C00DA281C /* SwitchingView.swift in Sources */,
 				C341DB152B98446800B6E029 /* GridViewExample.swift in Sources */,
 				C341DB112B9811F600B6E029 /* NavigationExample.swift in Sources */,
+				C3951C0B2B99540700DA281C /* PhotoLibrary.swift in Sources */,
 				C341DAE72B98019000B6E029 /* SwiftUITutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
